@@ -1,0 +1,42 @@
+# PowerShell
+*.ps1.bak
+*.ps1.old
+*.ps1~
+
+# Reports
+*.html
+*.csv
+*.json
+*.xml
+*.txt
+!README.md
+!LICENSE
+!Feature.md
+
+# Credentials
+*.cred
+*.key
+*.pem
+*credentials*
+*secrets*
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Windows
+desktop.ini
+
